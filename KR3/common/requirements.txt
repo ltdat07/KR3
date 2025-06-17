@@ -1,6 +1,0 @@
-sqlalchemy>=1.4
-alembic
-asyncpg
-aiokafka
-pydantic
-loguru

@@ -1,8 +1,0 @@
-fastapi
-uvicorn[standard]
-httpx
-pydantic
-pytest
-pytest-asyncio
-pytest-cov
-fastapi[test]
