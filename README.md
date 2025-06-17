@@ -1,15 +1,15 @@
 ````markdown
-# KR3: Orders & Payments Microservices
+KR3: Orders & Payments Microservices
 
-> **Shopaholics’ helper**  
+> Shopaholics’ helper 
 > Система из трёх микросервисов для приёма заказов и оплаты:  
-> 1. **API Gateway** — маршрутизатор запросов  
-> 2. **Orders Service** — создание/просмотр заказов + transactional outbox  
-> 3. **Payments Service** — создание/пополнение/баланс счёта + transactional inbox/outbox  
+> 1. API Gateway — маршрутизатор запросов  
+> 2. Orders Service — создание/просмотр заказов + transactional outbox  
+> 3. Payments Service — создание/пополнение/баланс счёта + transactional inbox/outbox  
 
 ---
 
-## 🚀 Быстрый старт
+🚀 Быстрый старт
 
 1. **Клонировать репозиторий**  
    ```bash
