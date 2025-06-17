@@ -17,8 +17,4 @@ class KafkaProducerWrapper:
         await self._producer.stop()
 
     async def send(self, topic: str, value: dict, key: bytes = None):
-        """
-        Отправить сообщение в Kafka.
-        key: опциональный ключ (bytes), например user_id или aggregate_id.
-        """
         await self._producer.send_and_wait(topic, value=value, key=key)
