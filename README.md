@@ -11,7 +11,7 @@ KR3: Orders & Payments Microservices
 
 🚀 Быстрый старт
 
-1. **Клонировать репозиторий**  
+1. Клонировать репозиторий  
    ```bash
    git clone https://github.com/your-org/kr3-microservices.git
    cd kr3-microservices
