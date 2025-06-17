@@ -13,8 +13,8 @@ KR3: Orders & Payments Microservices
 
 1. Клонировать репозиторий  
    ```bash
-   git clone https://github.com/your-org/kr3-microservices.git
-   cd kr3-microservices
+   git clone https://github.com/ltdat07/KR3.git
+   cd KR3
 ````
 
 2. **Создать файл `.env` в корне проекта**
