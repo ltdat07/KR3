@@ -1,0 +1,14 @@
+uvicorn[standard]
+sqlalchemy>=1.4
+alembic
+asyncpg
+aiokafka
+pydantic
+loguru
+httpx
+psycopg2-binary
+pydantic-settings
+pytest
+pytest-asyncio
+pytest-cov
+fastapi[test]
